@@ -1,0 +1,13 @@
+"*":
+  "autocomplete-python":
+    useKite: false
+  core:
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax"
+    ]
+  editor:
+    fontFamily: "Liberation Mono, Noto Sans CJK TC"
+    fontSize: 22
+  "exception-reporting":
+    userId: "8fcf0014-7c74-4088-a4b6-673a5cca7cc4"
